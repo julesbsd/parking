@@ -1,7 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 
-<html>
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
 <head>
 	<title>Online Parking System</title>
 	<style type="text/css">
@@ -16,7 +17,7 @@
 			<li><a href="/Login">Admin</a></li>
 			<li><a href="/User">User</a></li>	
 		</ul>
-	 	<marquee><h1 class="heading">Welcome to Online Parking System</h1></marquee>
+	 	<h1 class="heading">Welcome to Online Parking System</h1>
 	</div>
 	<div>${PrintSwal}</div>
 </body>

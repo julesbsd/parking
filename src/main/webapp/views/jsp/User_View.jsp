@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
-<html>
+<html lang="en" xml:lang="en">
    <head>
    	<style type="text/css">
 		<%@ include file="/views/css/menu_style.css"%>

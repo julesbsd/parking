@@ -31,9 +31,8 @@ th {
          <div class="logo">
             Online Parking System
          </div>
-          <label for="menu-toggle" class="menu-btn">
-          <input type="checkbox" id="menu-toggle" style="display:none;"></label>
-         <i class="fas fa-bars"></i>
+          <input type="checkbox" id="menu-toggle" class="menu-btn" style="display:none;">
+          <label for="menu-toggle" class="menu-btn"><i class="fas fa-bars"></i></label>
          </label>
          <ul>
             <li><a href="/Admin_Home">Home</a></li>
